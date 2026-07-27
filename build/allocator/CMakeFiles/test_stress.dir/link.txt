@@ -1,0 +1,1 @@
+/usr/bin/cc -g -fsanitize=address,undefined -Wl,--dependency-file=CMakeFiles/test_stress.dir/link.d CMakeFiles/test_stress.dir/tests/test_stress.c.o -o ../bin/test_stress  liballocator.a

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/gathman/main/dev/HeapArchitect/build",
+  "command": "/usr/bin/cc  -I/home/gathman/main/dev/HeapArchitect/allocator/src -g -std=c17 -Wall -Wextra -Wpedantic -Werror -Wshadow -Wconversion -fsanitize=address,undefined -g -O0 -o CMakeFiles/app.dir/src/main.c.o -c /home/gathman/main/dev/HeapArchitect/src/main.c",
+  "file": "/home/gathman/main/dev/HeapArchitect/src/main.c",
+  "output": "CMakeFiles/app.dir/src/main.c.o"
+},
+{
+  "directory": "/home/gathman/main/dev/HeapArchitect/build/allocator",
+  "command": "/usr/bin/cc  -I/home/gathman/main/dev/HeapArchitect/allocator/src -g -std=c17 -Wall -Wextra -Wpedantic -Werror -Wshadow -Wconversion -fsanitize=address,undefined -g -O0 -o CMakeFiles/allocator.dir/src/myalloc.c.o -c /home/gathman/main/dev/HeapArchitect/allocator/src/myalloc.c",
+  "file": "/home/gathman/main/dev/HeapArchitect/allocator/src/myalloc.c",
+  "output": "allocator/CMakeFiles/allocator.dir/src/myalloc.c.o"
+},
+{
+  "directory": "/home/gathman/main/dev/HeapArchitect/build/allocator",
+  "command": "/usr/bin/cc  -I/home/gathman/main/dev/HeapArchitect/allocator/src -g -std=c17 -Wall -Wextra -Wpedantic -Werror -Wshadow -Wconversion -fsanitize=address,undefined -g -O0 -o CMakeFiles/test_basic.dir/tests/test_basic.c.o -c /home/gathman/main/dev/HeapArchitect/allocator/tests/test_basic.c",
+  "file": "/home/gathman/main/dev/HeapArchitect/allocator/tests/test_basic.c",
+  "output": "allocator/CMakeFiles/test_basic.dir/tests/test_basic.c.o"
+},
+{
+  "directory": "/home/gathman/main/dev/HeapArchitect/build/allocator",
+  "command": "/usr/bin/cc  -I/home/gathman/main/dev/HeapArchitect/allocator/src -g -std=c17 -Wall -Wextra -Wpedantic -Werror -Wshadow -Wconversion -fsanitize=address,undefined -g -O0 -o CMakeFiles/test_stress.dir/tests/test_stress.c.o -c /home/gathman/main/dev/HeapArchitect/allocator/tests/test_stress.c",
+  "file": "/home/gathman/main/dev/HeapArchitect/allocator/tests/test_stress.c",
+  "output": "allocator/CMakeFiles/test_stress.dir/tests/test_stress.c.o"
+},
+{
+  "directory": "/home/gathman/main/dev/HeapArchitect/build/allocator",
+  "command": "/usr/bin/cc  -I/home/gathman/main/dev/HeapArchitect/allocator/src -g -std=c17 -Wall -Wextra -Wpedantic -Werror -Wshadow -Wconversion -fsanitize=address,undefined -g -O0 -o CMakeFiles/test_fragmentation.dir/tests/test_fragmentation.c.o -c /home/gathman/main/dev/HeapArchitect/allocator/tests/test_fragmentation.c",
+  "file": "/home/gathman/main/dev/HeapArchitect/allocator/tests/test_fragmentation.c",
+  "output": "allocator/CMakeFiles/test_fragmentation.dir/tests/test_fragmentation.c.o"
+}
+]

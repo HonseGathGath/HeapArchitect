@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/gathman/main/dev/HeapArchitect/build/cmake_install.cmake",
+		"/home/gathman/main/dev/HeapArchitect/build/allocator/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

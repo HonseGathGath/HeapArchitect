@@ -1,0 +1,9 @@
+/home/gathman/main/dev/HeapArchitect/build/CMakeFiles/app.dir
+/home/gathman/main/dev/HeapArchitect/build/CMakeFiles/edit_cache.dir
+/home/gathman/main/dev/HeapArchitect/build/CMakeFiles/rebuild_cache.dir
+/home/gathman/main/dev/HeapArchitect/build/allocator/CMakeFiles/allocator.dir
+/home/gathman/main/dev/HeapArchitect/build/allocator/CMakeFiles/test_basic.dir
+/home/gathman/main/dev/HeapArchitect/build/allocator/CMakeFiles/test_stress.dir
+/home/gathman/main/dev/HeapArchitect/build/allocator/CMakeFiles/test_fragmentation.dir
+/home/gathman/main/dev/HeapArchitect/build/allocator/CMakeFiles/edit_cache.dir
+/home/gathman/main/dev/HeapArchitect/build/allocator/CMakeFiles/rebuild_cache.dir
