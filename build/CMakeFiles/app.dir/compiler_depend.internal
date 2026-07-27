@@ -10,7 +10,6 @@ CMakeFiles/app.dir/src/main.c.o
  /usr/include/bits/libc-header-start.h
  /usr/include/bits/long-double.h
  /usr/include/bits/stdio_lim.h
- /usr/include/bits/stdlib-float.h
  /usr/include/bits/time64.h
  /usr/include/bits/timesize.h
  /usr/include/bits/types.h
@@ -28,7 +27,6 @@ CMakeFiles/app.dir/src/main.c.o
  /usr/include/gnu/stubs.h
  /usr/include/stdc-predef.h
  /usr/include/stdio.h
- /usr/include/stdlib.h
  /usr/include/string.h
  /usr/include/sys/cdefs.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdarg.h
